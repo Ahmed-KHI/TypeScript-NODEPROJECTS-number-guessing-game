@@ -1,0 +1,20 @@
+{
+  "name": "typescript-nodeprojects-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This TypeScript code implements a simple command-line number guessing game called 'Artificialvolutionize'. It provides a fun and interactive way to test your luck and guessing skills.",
+  "main": "game.js",
+  "type": "module",
+  "bin": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Command-line game","TypeScript","Number guessing game","User interaction","Random number generation","Inquirer.js","Guess validation","Feedback","Interactive","Simple"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
